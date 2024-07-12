@@ -49,7 +49,3 @@ I explored how BMI category affects insomnia rates by calculating the ratio of a
 2. **Stress Management Programs:** Implement stress management workshops for occupations with high stress levels to improve sleep duration and quality.
 3. **Health and Fitness Campaigns:** Promote healthy lifestyle choices to manage BMI and reduce the prevalence of insomnia among users.
 4. **Personalized Recommendations:** Use the findings to offer personalized sleep improvement tips based on occupation and BMI category through the SleepScope app.
-
-## Usage
-To run the analysis, ensure you have the necessary libraries installed:
-
